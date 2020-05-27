@@ -4,9 +4,26 @@ This is a quick little landing page to link you to my repositories.
 
 Not all of them - just the ones that are active:
 
-* <dl><dt>[bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)</dt><dd> The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept </dd><dd>https://vinorodrigues.github.io/bootstrap-dark/</dd></dl>
+## [bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)
 
-* <dl><dt>[foundswatch](https://github.com/vinorodrigues/foundswatch)</dt><dd> The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept </dd><dd>http://foundswatch.com/</dd></dl>
+The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
+https://vinorodrigues.github.io/bootstrap-dark/
 
-* <dl><dt>[font-code3of9](https://github.com/vinorodrigues/font-code3of9)</dt><dd> Code 3 of 9 Font </dd></dl>
+## [foundswatch](https://github.com/vinorodrigues/foundswatch)
+
+Themes for ZURB Foundation for Sites
+http://foundswatch.com/
+
+## [font-code3of9](https://github.com/vinorodrigues/font-code3of9)
+
+Code 3 of 9 Font
+
+---
+
+## Ask a question
+
+Asking a question is as easy as creating a new issue on this project.
+
+I'll try to answer it as soon as I can get to it. Once I answer I'll close the issue just so I know what I've covered, but don't worry - if you have any further questions just respond in the thread and I'll get back to you soon.
+Remember your question will be public in perpetuity.
 
