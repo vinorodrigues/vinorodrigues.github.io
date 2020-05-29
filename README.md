@@ -1,7 +1,7 @@
 # @vinorodrigues
 
 <p align="center">
-	![](img/vinorodrigues.svg)
+	![](./img/vinorodrigues.svg)
 </p>
 
 This is a quick little landing page to link you to my repositories.
