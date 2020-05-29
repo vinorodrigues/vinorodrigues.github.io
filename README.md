@@ -37,7 +37,7 @@ Code 3 of 9 Font
 
 > ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-blue)
 
-Source of the [C1K.IT](http://c1k.it/) (ClickIt) is a URL Shortening service
+Source of the [C1K.IT](http://c1k.it/) (ClickIt) URL Shortening service
 
 
 
