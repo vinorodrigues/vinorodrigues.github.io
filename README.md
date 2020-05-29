@@ -4,21 +4,42 @@ This is a quick little landing page to link you to my repositories.
 
 Not all of them - just the ones that are active or that I feel are still useful:
 
+
+
 ## [bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)
+
+> ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)
 
 The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
 [vinorodrigues.github.io/bootstrap-dark](https://vinorodrigues.github.io/bootstrap-dark/)
 
+
+
 ## [foundswatch](https://github.com/vinorodrigues/foundswatch)
+
+> ![License](https://img.shields.io/github/license/vinorodrigues/Foundswatch) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/Foundswatch) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/foundswatch/badge?style=rounded)
 
 Themes for ZURB Foundation for Sites
 
 [foundswatch.com](http://foundswatch.com/)
 
+
+
 ## [font-code3of9](https://github.com/vinorodrigues/font-code3of9)
 
+> ![License](https://img.shields.io/badge/license-MIT-green)
+
 Code 3 of 9 Font
+
+
+## [ClickIt-URL-Shortener](https://github.com/vinorodrigues/ClickIt-URL-Shortener)
+
+> ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-orange)
+
+Source of the [C1K.IT](http://c1k.it/) (ClickIt) is a URL Shortening service
+
+
 
 ---
 
