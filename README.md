@@ -35,7 +35,7 @@ Code 3 of 9 Font
 
 ## [ClickIt-URL-Shortener](https://github.com/vinorodrigues/ClickIt-URL-Shortener)
 
-> ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-orange)
+> ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-blue)
 
 Source of the [C1K.IT](http://c1k.it/) (ClickIt) is a URL Shortening service
 
@@ -44,6 +44,8 @@ Source of the [C1K.IT](http://c1k.it/) (ClickIt) is a URL Shortening service
 ---
 
 ## Ask a question
+
+> ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/vinorodrigues.github.io)
 
 Asking a question is as easy as creating a new [issue](https://github.com/vinorodrigues/vinorodrigues.github.io/issues) on this project.
 
