@@ -1,9 +1,5 @@
 # @vinorodrigues
 
-<p align="center">
-	![Hello](img/vinorodrigues.png)
-</p>
-
 This is a quick little landing page to link you to my repositories.
 
 Not all of them - just the ones that are active or that I feel are still useful:
