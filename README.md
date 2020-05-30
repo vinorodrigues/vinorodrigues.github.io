@@ -1,7 +1,7 @@
 # @vinorodrigues
 
 <p align="center">
-	![Hello](https://github.com/vinorodrigues/vinorodrigues.github.io/blob/master/img/vinorodrigues.svg)
+	![Hello](img/vinorodrigues.png)
 </p>
 
 This is a quick little landing page to link you to my repositories.
