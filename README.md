@@ -1,8 +1,7 @@
 # @vinorodrigues
 
 <p align="center">
-	![Hello](vino-avatar.svg)
-	<img src="vino-avatar.svg">
+	<img src="vino-avatar.svg" alt="Hello">
 </p>
 
 This is a quick little landing page to link you to my repositories.
