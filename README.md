@@ -1,6 +1,6 @@
 # @vinorodrigues
 
-<img src="vino-avatar.svg" alt="Hello" width="128" height="128" style="float:right;margin:2rem;">
+<img src="vino-avatar.svg" align="right" alt="Hello" width="128" height="128">
 
 This is a quick little landing page to link you to my repositories.
 
