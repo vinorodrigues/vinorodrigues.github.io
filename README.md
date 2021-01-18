@@ -2,6 +2,8 @@
 
 <img src="vino-avatar.svg" align="right" alt="Hello" width="128" height="128">
 
+- *Visit my GitHub profile page [here](https://github.com/vinorodrigues).*
+
 This is a quick little landing page to link you to my repositories.
 
 Not all of them - just the ones that are active or that I feel are still useful:
