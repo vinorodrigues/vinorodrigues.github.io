@@ -19,7 +19,7 @@ The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
 ## [bootstrap-dark-5](https://github.com/vinorodrigues/bootstrap-dark-5)
 
-> ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)
+> ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)
 
 The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC
 
