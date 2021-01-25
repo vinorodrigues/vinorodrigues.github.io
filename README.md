@@ -12,6 +12,8 @@ Not all of them - just the ones that are active or that I feel are still useful:
 
 ## [bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinorodrigues&repo=bootstrap-dark" align="right">
+
 > ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)
 
 The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
@@ -21,10 +23,13 @@ The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
 ## [bootstrap-dark-5](https://github.com/vinorodrigues/bootstrap-dark-5)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinorodrigues&repo=bootstrap-dark-5" align="right">
+
 > ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)
 
 The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC
 
+[vinorodrigues.github.io/bootstrap-dark-5](https://vinorodrigues.github.io/bootstrap-dark-5/)
 
 
 ## [foundswatch](https://github.com/vinorodrigues/foundswatch)
@@ -41,7 +46,7 @@ Themes for ZURB Foundation for Sites
 
 > ![License](https://img.shields.io/badge/license-MIT-green)
 
-Code 3 of 9 Font
+Code 3 of 9 Font - code (PHP) generated and compiled with FontForge.
 
 
 ## [ClickIt-URL-Shortener](https://github.com/vinorodrigues/ClickIt-URL-Shortener)
