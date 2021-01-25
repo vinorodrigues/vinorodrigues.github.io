@@ -12,7 +12,7 @@ Not all of them - just the ones that are active or that I feel are still useful:
 
 ## [bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)
 
-> ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)
+> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark)](https://github.com/vinorodrigues/bootstrap-dark/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-4?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-4)](http://npmjs.com/package/bootstrap-dark-4)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinorodrigues&repo=bootstrap-dark" align="right" height="100">
 
@@ -23,7 +23,7 @@ The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
 ## [bootstrap-dark-5](https://github.com/vinorodrigues/bootstrap-dark-5)
 
-> ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)
+> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark-5/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5)](https://github.com/vinorodrigues/bootstrap-dark-5/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-5?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-5)](http://npmjs.com/package/bootstrap-dark-5)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinorodrigues&repo=bootstrap-dark-5" align="right" height="100">
 
@@ -47,7 +47,7 @@ Themes for ZURB Foundation for Sites
 
 <img src="retired.svg" alt="Deprecated" align="right" height="32">
 
-> ![License](https://img.shields.io/badge/license-MIT-green)
+> ![License](https://img.shields.io/github/license/vinorodrigues/font-code3of9)
 
 Code 3 of 9 Font - code (PHP) generated and compiled with FontForge.
 
