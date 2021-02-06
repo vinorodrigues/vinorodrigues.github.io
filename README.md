@@ -12,7 +12,7 @@ Not all of them - just the ones that are active or that I feel are still useful:
 
 ## &#8226; [bootstrap-dark](https://github.com/vinorodrigues/bootstrap-dark)
 
-> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark)](https://github.com/vinorodrigues/bootstrap-dark/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-4?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-4)](http://npmjs.com/package/bootstrap-dark-4) [![](https://img.shields.io/github/watchers/vinorodrigues/bootstrap-dark?color=eee&label=Watch)](https://github.com/vinorodrigues/bootstrap-dark/watchers) [![](https://img.shields.io/github/stars/vinorodrigues/bootstrap-dark?color=eee&label=Star)](https://github.com/vinorodrigues/bootstrap-dark/stargazers) [![](https://img.shields.io/github/forks/vinorodrigues/bootstrap-dark?color=eee&label=Fork)](https://github.com/vinorodrigues/bootstrap-dark/fork)
+> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark)](https://github.com/vinorodrigues/bootstrap-dark/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-4?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-4)](http://npmjs.com/package/bootstrap-dark-4) [![](https://img.shields.io/github/watchers/vinorodrigues/bootstrap-dark?color=eee&label=Watch&style=social)](https://github.com/vinorodrigues/bootstrap-dark/watchers) [![](https://img.shields.io/github/stars/vinorodrigues/bootstrap-dark?color=eee&label=Star&style=social)](https://github.com/vinorodrigues/bootstrap-dark/stargazers) [![](https://img.shields.io/github/forks/vinorodrigues/bootstrap-dark?color=eee&label=Fork&style=social)](https://github.com/vinorodrigues/bootstrap-dark/fork)
 
 The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
@@ -21,7 +21,7 @@ The Definative Guild to Dark Mode and Bootstrap 4 - A proof of concept
 
 ## &#8226; [bootstrap-dark-5](https://github.com/vinorodrigues/bootstrap-dark-5)
 
-> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark-5/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5)](https://github.com/vinorodrigues/bootstrap-dark-5/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-5?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-5)](http://npmjs.com/package/bootstrap-dark-5) [![](https://img.shields.io/github/watchers/vinorodrigues/bootstrap-dark-5?color=eee&label=Watch)](https://github.com/vinorodrigues/bootstrap-dark-5/watchers) [![](https://img.shields.io/github/stars/vinorodrigues/bootstrap-dark-5?color=eee&label=Star)](https://github.com/vinorodrigues/bootstrap-dark-5/stargazers) [![](https://img.shields.io/github/forks/vinorodrigues/bootstrap-dark-5?color=eee&label=Fork)](https://github.com/vinorodrigues/bootstrap-dark-5/fork)
+> [![License](https://img.shields.io/badge/license-MIT-informational)](https://github.com/vinorodrigues/bootstrap-dark-5/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/bootstrap-dark-5)](https://github.com/vinorodrigues/bootstrap-dark-5/issues) [![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/bootstrap-dark-5/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bootstrap-dark-5?path=dist) [![](https://img.shields.io/npm/v/bootstrap-dark-5)](http://npmjs.com/package/bootstrap-dark-5) [![](https://img.shields.io/github/watchers/vinorodrigues/bootstrap-dark-5?color=eee&label=Watch&style=social)](https://github.com/vinorodrigues/bootstrap-dark-5/watchers) [![](https://img.shields.io/github/stars/vinorodrigues/bootstrap-dark-5?color=eee&label=Star&style=social)](https://github.com/vinorodrigues/bootstrap-dark-5/stargazers) [![](https://img.shields.io/github/forks/vinorodrigues/bootstrap-dark-5?color=eee&label=Fork&style=social)](https://github.com/vinorodrigues/bootstrap-dark-5/fork)
 
 The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC
 
@@ -29,9 +29,7 @@ The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark
 
 ## &#8226; [foundswatch](https://github.com/vinorodrigues/foundswatch)
 
-> ![License](https://img.shields.io/github/license/vinorodrigues/Foundswatch) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/Foundswatch) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/foundswatch/badge?style=rounded) 
-
-<img src="retired.svg" alt="Deprecated" height="24">
+> ![License](https://img.shields.io/github/license/vinorodrigues/Foundswatch) ![GitHub issues](https://img.shields.io/github/issues/vinorodrigues/Foundswatch) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/foundswatch/badge?style=rounded) <img src="retired.svg" alt="Retired" height="20">
 
 Themes for ZURB Foundation for Sites
 
@@ -40,18 +38,14 @@ Themes for ZURB Foundation for Sites
 
 ## &#8226; [font-code3of9](https://github.com/vinorodrigues/font-code3of9)
 
-> ![License](https://img.shields.io/github/license/vinorodrigues/font-code3of9)
-
-<img src="retired.svg" alt="Deprecated" height="24">
+> ![License](https://img.shields.io/github/license/vinorodrigues/font-code3of9) <img src="retired.svg" alt="Retired" height="20">
 
 Code 3 of 9 Font - code (PHP) generated and compiled with FontForge.
 
 
 ## &#8226; [ClickIt-URL-Shortener](https://github.com/vinorodrigues/ClickIt-URL-Shortener)
 
-> ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-blue)
-
-<img src="retired.svg" alt="Deprecated" height="24">
+> ![License](https://img.shields.io/badge/license-CC--BY--SA--3.0-blue) <img src="retired.svg" alt="Retired" height="20">
 
 Source of the [C1K.IT](http://c1k.it/) (ClickIt) URL Shortening service
 
@@ -68,9 +62,7 @@ Qwicc Fan Control Board, with circuitry for:
 
 ## &#8226; [DS3232RTC](https://github.com/Tecsmith/DS3232RTC)
 
-![License](https://img.shields.io/github/license/Tecsmith/DS3232RTC)
-
-<img src="retired.svg" alt="Deprecated" height="24">
+![License](https://img.shields.io/github/license/Tecsmith/DS3232RTC) <img src="retired.svg" alt="Retired" height="20">
 
 Arduino library for the [Freetronics DS3232 Real Time Clock](https://www.freetronics.com.au/products/real-time-clock-rtc-module) (RTC) module.
 
