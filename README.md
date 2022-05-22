@@ -43,7 +43,7 @@ A Star Wars fans font, created with BirdFont.
 
 
 
-## &#8227; VR61 Mechanical Keyboard
+## &#8226; VR61 Mechanical Keyboard
 
 ### &#8227; [VR61 PCB](https://github.com/tecsmith/vr61-keyboard-pcb)
 
