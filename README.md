@@ -33,23 +33,41 @@ The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark
 
 A Star Wars fans font, created with BirdFont.
 
-## &#8226; [font-code3of9](https://github.com/vinorodrigues/font-code3of9)
 
-> ![](https://img.shields.io/github/license/vinorodrigues/font-code3of9) <img src="retired.svg" alt="Retired" height="20">
-
-Code 3 of 9 Barcode Font - code generated *(with PHP)* and compiled with FontForge.
 
 -----
 
-## &#8226; Older
+***Newer...***
 
-## &#8227; [foundswatch](https://github.com/vinorodrigues/foundswatch)
+*(Bucket list stuff...)*
 
-> ![](https://img.shields.io/github/license/vinorodrigues/Foundswatch) ![](https://data.jsdelivr.com/v1/package/gh/vinorodrigues/foundswatch/badge?style=rounded) <img src="retired.svg" alt="Retired" height="20">
 
-Themes for ZURB Foundation for Sites
 
-[foundswatch.com](http://foundswatch.com/)
+## &#8227; VR61 Mechanical Keyboard
+
+### &#8227; [VR61 PCB](https://github.com/tecsmith/vr61-keyboard-pcb)
+
+> ![](https://img.shields.io/github/license/tecsmith/vr61-keyboard-pcb) ![](https://img.shields.io/github/issues/tecsmith/vr61-keyboard-pcb)
+
+60% form factor PCB build around the Sparkfun STM32 MicroMod module.
+
+### &#8227; [VR61 QMK Code](https://github.com/tecsmith/vr61-keyboard-qmk)
+
+> ![](https://img.shields.io/github/license/tecsmith/vr61-keyboard-qmk) ![](https://img.shields.io/github/issues/tecsmith/vr61-keyboard-qmk)
+
+QMK for the VR61 PCB.
+
+-----
+
+***Older...***
+
+
+## &#8227; [Flying-Horse-Foot](https://github.com/tecsmith/flying-horse-foot)
+
+> ![](https://img.shields.io/badge/license-%7BNot%20claimed%7D-white) ![](https://img.shields.io/github/issues/tecsmith/flying-horse-foot) <img src="retired.svg" alt="Retired" height="20">
+
+A reverse engineered, popular, but discontinued, Filco Majestouch 2 TKL mechanical keyboard controller and accompanying QMK code.
+
 
 
 ## &#8227; [ClickIt-URL-Shortener](https://github.com/vinorodrigues/ClickIt-URL-Shortener)
@@ -59,9 +77,20 @@ Themes for ZURB Foundation for Sites
 Source of the [C1K.IT](http://c1k.it/) (ClickIt) URL Shortening service
 
 
-## &#8227; [arduino-fan-control-v2](https://github.com/Tecsmith/arduino-fan-control-v2)
 
-> [![](https://img.shields.io/badge/license-MIT-informational)](https://github.com/Tecsmith/arduino-fan-control-v2/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/Tecsmith/arduino-fan-control-v2)](https://github.com/Tecsmith/arduino-fan-control-v2/issues)
+## &#8226; [font-code3of9](https://github.com/vinorodrigues/font-code3of9)
+
+> ![](https://img.shields.io/github/license/vinorodrigues/font-code3of9) <img src="retired.svg" alt="Retired" height="20">
+
+Code 3 of 9 Barcode Font - code generated *(with PHP)* and compiled with FontForge.
+
+
+
+## &#8227; Arduino Fan Control
+
+A cluster of small projects build around thermal management using the  Arduino and ESP8266 platforms.
+
+> [![](https://img.shields.io/badge/license-MIT-informational)](https://github.com/Tecsmith/arduino-fan-control-v2/blob/master/LICENSE.md)
 
 Qwicc Fan Control Board, with circuitry for:
 * [ESP-01 Qwiic Development Board](http://c1k.it/esp1)
