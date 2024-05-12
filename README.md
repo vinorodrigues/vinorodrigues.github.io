@@ -1,6 +1,6 @@
 # @vinorodrigues
 
-<img src="vino-avatar.svg" align="right" alt="Hello" width="128" height="128">
+<img src="vino-memoji-no-bg.min.png" align="right" alt="Hello" width="128" height="128" style="border-radius:50%">
 
 - *Visit my GitHub profile page [here](https://github.com/vinorodrigues).*
 
